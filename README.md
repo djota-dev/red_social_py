@@ -15,12 +15,6 @@ Persistencia de Datos: Guarda los datos de los usuarios y sus publicaciones en u
 
 Estructura de Archivos
 
-red_social/
-│
-├── main.py
-├── usuario.py
-├── publicacion.py
-└── red_social.py
 
 main.py: Contiene el punto de entrada principal del programa y el menú interactivo.
 usuario.py: Define la clase Usuario, que representa a un usuario de la red social.
