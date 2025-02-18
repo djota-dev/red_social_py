@@ -1,4 +1,4 @@
-Proyecto 01: Red Social en Python
+ Red Social en Python
 
 
 Descripción:
